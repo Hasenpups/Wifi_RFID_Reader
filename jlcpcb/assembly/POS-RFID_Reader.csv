@@ -1,0 +1,14 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_01x04_Female,PinHeader_1x04_P2.54mm_Vertical,184.312994,-85.812994,45.0,top
+J2,Barrel_Jack,BarrelJack_Horizontal,200.0,-62.0,-90.0,bottom
+J3,Conn_01x08_Female,PinHeader_1x08_P2.54mm_Horizontal,171.625,-86.875,0.0,bottom
+JSW1,Conn_01x02_Female,PinHeader_1x02_P2.54mm_Horizontal,210.0,-112.5,90.0,bottom
+JSW2,Conn_01x02_Female,PinHeader_1x02_P2.54mm_Horizontal,201.275,-114.375,90.0,bottom
+JSW3,Conn_01x02_Female,PinHeader_1x02_P2.54mm_Horizontal,192.5,-112.5,90.0,bottom
+R1,10K,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,208.19,-98.0,0.0,top
+R2,10K,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,173.0,-90.19,-90.0,top
+R3,10K,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,176.0,-90.19,-90.0,top
+SW1,SW_Push,SW_PUSH_6mm_H8mm,212.292894,-103.110913,-45.0,top
+SW2,SW_Push,SW_PUSH_6mm_H8mm,196.75,-107.75,0.0,top
+SW3,SW_Push,SW_PUSH_6mm_H8mm,183.110913,-107.707107,45.0,top
+U1,WeMos_D1_mini,WEMOS_D1_mini_light,221.89,-93.945,90.0,bottom
