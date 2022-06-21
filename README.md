@@ -14,10 +14,11 @@ If somebody wants to support me for upcoming projects :)
 - PayPal:  [![donate](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=T25NKW8BXJ7J8)
 - Amazon Giftcard: https://www.amazon.de/Amazon-Gutschein-per-E-Mail-Amazon/dp/B0054PDOV8 - stefan.riese@me.com
 
-# Wifi_RFID_Reader
+# RFID WiFi Reader
 This RFID WiFi Reader is used to read RFID cards or keychain pendant and send the serial number via MQTT. Additionally there is an option to solder 3 tactile push buttons to the PCB for user inputs. 
 
-<img src="./Images/IMG_0304.jpeg" width="20%" height="20%">
+<img src="./Images/IMG_0304.jpeg" width="50%" height="50%">
+<img src="./Images/IMG_0300.jpeg" width="50%" height="50%"><img src="./Images/IMG_0301.jpeg" width="50%" height="50%">
 
 ## Features
 - MQTT interface
@@ -27,6 +28,7 @@ This RFID WiFi Reader is used to read RFID cards or keychain pendant and send th
   - Solder of cables to pads
 - 3 Buttons for user input
   - 6x6mm tactile push buttons or soldered to pads or 2,54mm dupont connector
+- additional pins from ESP for addons
 
 ## BOM
 |Id|Designator|Package|Quantity|Designation|Comment|
@@ -56,6 +58,7 @@ https://espeasy.readthedocs.io/
   - D6
 
 ## Configuration
+<img src="./Images/ESPeasy_config.png" width="100%" height="100%">
 
 ## Housing
 https://github.com/Hasenpups/Wifi_RFID_Reader/tree/main/Housing
