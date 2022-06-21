@@ -17,6 +17,8 @@ If somebody wants to support me for upcoming projects :)
 # Wifi_RFID_Reader
 This RFID WiFi Reader is used to read RFID cards or keychain pendant and send the serial number via MQTT. Additionally there is an option to solder 3 tactile push buttons to the PCB for user inputs. 
 
+<img src="./Images/IMG_0304.jpeg" width="20%" height="20%">
+
 ## Features
 - MQTT interface
 - Power options: 
