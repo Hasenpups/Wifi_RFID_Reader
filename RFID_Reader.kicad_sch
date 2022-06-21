@@ -1072,7 +1072,7 @@
     (uuid 1855ca44-ab48-4b76-a210-97fc81d916c4)
     (property "Reference" "SW1" (id 0) (at 168.91 74.6592 0))
     (property "Value" "SW_Push" (id 1) (at 168.91 77.1961 0))
-    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8mm" (id 2) (at 168.91 76.2 0)
+    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H9.5mm" (id 2) (at 168.91 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 168.91 76.2 0)
@@ -1121,7 +1121,7 @@
     (uuid 26769327-3160-41f1-82e7-11d5d542abde)
     (property "Reference" "SW2" (id 0) (at 168.91 79.7392 0))
     (property "Value" "SW_Push" (id 1) (at 168.91 82.2761 0))
-    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8mm" (id 2) (at 168.91 81.28 0)
+    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H9.5mm" (id 2) (at 168.91 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 168.91 81.28 0)
@@ -1431,7 +1431,7 @@
     (uuid d6a7f71a-4da6-4997-9a3d-af77c0308253)
     (property "Reference" "SW3" (id 0) (at 168.91 87.3592 0))
     (property "Value" "SW_Push" (id 1) (at 168.91 89.8961 0))
-    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8mm" (id 2) (at 168.91 96.52 0)
+    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H9.5mm" (id 2) (at 168.91 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 168.91 96.52 0)
@@ -1598,13 +1598,13 @@
       (reference "R3") (unit 1) (value "10K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/1855ca44-ab48-4b76-a210-97fc81d916c4"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH_6mm_H8mm")
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH_6mm_H9.5mm")
     )
     (path "/26769327-3160-41f1-82e7-11d5d542abde"
-      (reference "SW2") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH_6mm_H8mm")
+      (reference "SW2") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH_6mm_H9.5mm")
     )
     (path "/d6a7f71a-4da6-4997-9a3d-af77c0308253"
-      (reference "SW3") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH_6mm_H8mm")
+      (reference "SW3") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH_6mm_H9.5mm")
     )
     (path "/8d55e186-3e11-40e8-a65e-b36a8a00069e"
       (reference "U1") (unit 1) (value "WeMos_D1_mini") (footprint "Module:WEMOS_D1_mini_light")
